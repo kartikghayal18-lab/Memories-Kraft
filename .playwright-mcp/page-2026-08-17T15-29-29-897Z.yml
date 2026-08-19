@@ -1,0 +1,200 @@
+- generic [ref=f18e1]:
+  - generic [ref=f18e3]:
+    - generic [ref=f18e177]:
+      - link "Skip to content" [ref=f18e179] [cursor=pointer]:
+        - /url: "#main"
+      - banner [ref=f18e182]:
+        - generic [ref=f18e183]:
+          - generic [ref=f18e184]:
+            - link "Supabase Back to organization home" [ref=f18e185] [cursor=pointer]:
+              - /url: /dashboard/org/suvtcjgongvviohusweu
+              - img "Supabase" [ref=f18e186]
+              - generic [ref=f18e187]: Back to organization home
+            - generic [ref=f18e188]:
+              - generic [ref=f18e192]:
+                - link "kartikghayal18- Free" [ref=f18e193] [cursor=pointer]:
+                  - /url: /dashboard/org/suvtcjgongvviohusweu
+                  - generic [ref=f18e204]: kartikghayal18-
+                  - generic [ref=f18e205]: Free
+                - button "Show organizations" [ref=f18e206] [cursor=pointer]
+              - generic [ref=f18e211]:
+                - generic [ref=f18e215]:
+                  - link "Memory Kraft" [ref=f18e216] [cursor=pointer]:
+                    - /url: /dashboard/project/zulhxdnbpvfwkygaimuw
+                  - button "Show organization projects" [ref=f18e221] [cursor=pointer]
+                - generic [ref=f18e229]:
+                  - link "main Production" [ref=f18e230] [cursor=pointer]:
+                    - /url: /dashboard/project/zulhxdnbpvfwkygaimuw
+                    - generic "main" [ref=f18e231]
+                    - generic [ref=f18e232]: Production
+                  - button "Show project branches" [ref=f18e233] [cursor=pointer]
+            - button "Connect" [ref=f18e239] [cursor=pointer]
+          - generic [ref=f18e244]:
+            - button "Feedback" [ref=f18e245] [cursor=pointer]
+            - generic [ref=f18e247]:
+              - button [ref=f18e248] [cursor=pointer]:
+                - paragraph [ref=f18e253]: Search...
+                - generic [ref=f18e254]: ⌘K
+              - button "Help" [ref=f18e256] [cursor=pointer]
+              - button "Advisor Center" [ref=f18e263] [cursor=pointer]
+              - button "SQL Editor" [ref=f18e268] [cursor=pointer]
+              - button "AI Assistant" [ref=f18e273] [cursor=pointer]
+            - button [ref=f18e281] [cursor=pointer]:
+              - img "kartikghayal18-lab" [ref=f18e283]
+      - generic [ref=f18e284]:
+        - generic [ref=f18e288]:
+          - navigation [ref=f18e290]:
+            - list [ref=f18e292]:
+              - listitem [ref=f18e293]:
+                - link "Project Overview" [ref=f18e294] [cursor=pointer]:
+                  - /url: /dashboard/project/zulhxdnbpvfwkygaimuw
+              - listitem [ref=f18e297]:
+                - link "Table Editor" [ref=f18e298] [cursor=pointer]:
+                  - /url: /dashboard/project/zulhxdnbpvfwkygaimuw/editor
+              - listitem [ref=f18e301]:
+                - link "SQL Editor" [ref=f18e302] [cursor=pointer]:
+                  - /url: /dashboard/project/zulhxdnbpvfwkygaimuw/sql
+            - list [ref=f18e306]:
+              - listitem [ref=f18e307]:
+                - link "Database" [ref=f18e308] [cursor=pointer]:
+                  - /url: /dashboard/project/zulhxdnbpvfwkygaimuw/database/schemas
+              - listitem [ref=f18e313]:
+                - link "Authentication" [ref=f18e314] [cursor=pointer]:
+                  - /url: /dashboard/project/zulhxdnbpvfwkygaimuw/auth/users
+              - listitem [ref=f18e317]:
+                - link "Storage" [ref=f18e318] [cursor=pointer]:
+                  - /url: /dashboard/project/zulhxdnbpvfwkygaimuw/storage/files
+              - listitem [ref=f18e321]:
+                - link "Edge Functions" [ref=f18e322] [cursor=pointer]:
+                  - /url: /dashboard/project/zulhxdnbpvfwkygaimuw/functions
+              - listitem [ref=f18e328]:
+                - link "Realtime" [ref=f18e329] [cursor=pointer]:
+                  - /url: /dashboard/project/zulhxdnbpvfwkygaimuw/realtime/inspector
+            - list [ref=f18e333]:
+              - listitem [ref=f18e334]:
+                - link "Advisors" [ref=f18e335] [cursor=pointer]:
+                  - /url: /dashboard/project/zulhxdnbpvfwkygaimuw/advisors/security
+              - listitem [ref=f18e339]:
+                - link "Observability" [ref=f18e340] [cursor=pointer]:
+                  - /url: /dashboard/project/zulhxdnbpvfwkygaimuw/observability
+              - listitem [ref=f18e349]:
+                - link "Logs" [ref=f18e350] [cursor=pointer]:
+                  - /url: /dashboard/project/zulhxdnbpvfwkygaimuw/logs
+              - listitem [ref=f18e352]:
+                - link "Integrations" [ref=f18e353] [cursor=pointer]:
+                  - /url: /dashboard/project/zulhxdnbpvfwkygaimuw/integrations
+            - list [ref=f18e358]:
+              - listitem [ref=f18e359]:
+                - link "Project Settings" [ref=f18e360] [cursor=pointer]:
+                  - /url: /dashboard/project/zulhxdnbpvfwkygaimuw/settings/general
+          - button "Sidebar control" [ref=f18e366] [cursor=pointer]
+        - main [ref=f18e373]:
+          - generic [ref=f18e375]:
+            - generic [ref=f18e379]:
+              - heading "SQL Editor" [level=4] [ref=f18e381]
+              - generic [ref=f18e383]:
+                - generic [ref=f18e384]:
+                  - generic [ref=f18e385]:
+                    - generic [ref=f18e387]:
+                      - generic [ref=f18e388]: Search queries
+                      - textbox "Search queries..." [ref=f18e389]
+                      - button [ref=f18e390]
+                    - button "Create a new query" [expanded] [ref=f18e397] [cursor=pointer]
+                  - button "Shared" [ref=f18e402]
+                  - button "Favorites" [ref=f18e408]
+                  - generic [ref=f18e413]:
+                    - button "PRIVATE" [expanded] [ref=f18e414]
+                    - generic [ref=f18e420]:
+                      - paragraph [ref=f18e421]: No private queries created yet
+                      - paragraph [ref=f18e422]: Queries will be automatically saved once you start writing in the editor
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic "dummy_query_1"
+                          - generic:
+                            - generic "dummy_query_2"
+                          - generic:
+                            - generic "dummy_query_3"
+                          - generic:
+                            - generic "dummy_query_4"
+                  - button "Logs" [ref=f18e425]
+                  - generic [ref=f18e430]:
+                    - button "Reference" [expanded] [ref=f18e431]
+                    - generic [ref=f18e435]:
+                      - link "templates" [ref=f18e436] [cursor=pointer]:
+                        - /url: /dashboard/project/zulhxdnbpvfwkygaimuw/sql/templates
+                      - link "examples" [ref=f18e439] [cursor=pointer]:
+                        - /url: /dashboard/project/zulhxdnbpvfwkygaimuw/sql/examples
+                - button "View running queries" [ref=f18e444] [cursor=pointer]
+            - separator [ref=f18e446]
+            - main [ref=f18e457]:
+              - generic [ref=f18e458]:
+                - generic [ref=f18e459]:
+                  - generic [ref=f18e460]:
+                    - button "Collapse sidebar" [ref=f18e461]
+                    - tablist [ref=f18e466]:
+                      - generic [ref=f18e468]:
+                        - tab "New" [selected] [ref=f18e469] [cursor=pointer]
+                        - button "Close new tab" [ref=f18e475] [cursor=pointer]
+                  - status [ref=f18e480]
+                - generic [ref=f18e482]:
+                  - generic [ref=f18e483]:
+                    - button "More actions" [ref=f18e484] [cursor=pointer]
+                    - generic [ref=f18e490]:
+                      - 'button "Query source: Database" [ref=f18e491] [cursor=pointer]':
+                        - generic [ref=f18e497]: Database
+                      - generic [ref=f18e501]:
+                        - button "Save" [disabled]:
+                          - generic: ⌘S
+                        - button "Run" [ref=f18e502] [cursor=pointer]:
+                          - generic [ref=f18e504]: ⌘↵
+                  - generic [ref=f18e506]:
+                    - code [ref=f18e514]:
+                      - generic [ref=f18e515]:
+                        - generic [ref=f18e516]: "1"
+                        - textbox "Editor content" [ref=f18e528]
+                        - generic: Hit CMD+SHIFT+K to generate query or just start typing
+                    - separator [ref=f18e529]
+                    - generic [ref=f18e540]:
+                      - tablist [ref=f18e541]:
+                        - generic [ref=f18e542]:
+                          - tab "Results" [selected] [ref=f18e543] [cursor=pointer]
+                          - tab "Chart" [ref=f18e545] [cursor=pointer]
+                      - paragraph [ref=f18e548]:
+                        - text: Click
+                        - code [ref=f18e549]: Run
+                        - text: to execute your query
+    - generic [ref=f18e553]:
+      - generic:
+        - img "Background pattern"
+      - generic [ref=f18e554]:
+        - button "Close banner" [ref=f18e556] [cursor=pointer]
+        - generic [ref=f18e561]:
+          - generic [ref=f18e562]:
+            - generic [ref=f18e563]: Beta
+            - generic [ref=f18e565]:
+              - generic [ref=f18e604]:
+                - generic [ref=f18e606]: 17 Aug 26 20:59:27
+                - generic [ref=f18e607]: "200"
+              - generic [ref=f18e594]:
+                - generic [ref=f18e596]: 17 Aug 26 20:59:24
+                - generic [ref=f18e597]: "400"
+              - generic [ref=f18e599]:
+                - generic [ref=f18e601]: 17 Aug 26 20:59:21
+                - generic [ref=f18e602]: "304"
+              - generic [ref=f18e567]:
+                - generic [ref=f18e569]: 17 Aug 26 20:59:18
+                - generic [ref=f18e570]: "200"
+          - generic [ref=f18e586]:
+            - paragraph [ref=f18e587]: Unified Logs is here
+            - paragraph [ref=f18e588]: Search and correlate logs across all of your services from a single place.
+          - link "Explore Unified Logs" [ref=f18e590] [cursor=pointer]:
+            - /url: /dashboard/project/zulhxdnbpvfwkygaimuw/logs
+  - alert [ref=f18e176]: SQL Editor | Supabase
+  - generic [ref=f18e592]:
+    - alert
+    - alert
+  - menu "Create a new query" [active] [ref=f18e609]:
+    - menuitem "Create a new snippet" [ref=f18e610]
+    - menuitem "Create a new logs query" [ref=f18e614]
+    - menuitem "Create a new folder" [ref=f18e618]

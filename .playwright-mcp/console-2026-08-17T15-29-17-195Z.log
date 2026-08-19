@@ -1,0 +1,234 @@
+[     227ms] [WARNING] [Warning] Please install/enable Redux devtools extension @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[     409ms] [LOG] Supabase Studio is running commit 7c46793a3f939a35cf7326b02942f2c70c1fc7b6 deployed at unknown time. @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[     425ms] [WARNING] ConfigCat - WARN - [3003] Cannot evaluate condition (User.plan IS ONE OF ['pro', 'team', 'enterprise']) for setting 'observabilityOverview' (the User.plan attribute is missing). You should set the User.plan attribute in order to make targeting work properly. Read more: https://configcat.com/docs/advanced/user-object/ @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[     972ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://api.supabase.com/platform/integrations/github/authorization:0
+[   44309ms] [WARNING] Tabs is changing from controlled to uncontrolled. Components should not switch from controlled to uncontrolled (or vice versa). Decide between using a controlled or uncontrolled value for the lifetime of the component. @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[   44319ms] [WARNING] Tabs is changing from uncontrolled to controlled. Components should not switch from controlled to uncontrolled (or vice versa). Decide between using a controlled or uncontrolled value for the lifetime of the component. @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[10170806ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[10171014ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[10171422ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[10172231ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[11113357ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[11361172ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://api.supabase.com/platform/integrations/github/authorization:0
+[20453450ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[49190932ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[49191142ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[49191549ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[49192358ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[49193967ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[49197174ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[49883050ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[52842023ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[52842231ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[52842641ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[52843451ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[52845062ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[53282205ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[55042235ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[55042444ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[55042853ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[55043663ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[55442039ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[55880932ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[55881140ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[55881549ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[56500278ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[57467869ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[57468078ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[57468485ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[57506495ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58587742ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58587879ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://ph.supabase.com/flags/?v=2&_=1787039145066&ver=1.391.2&compression=base64:0
+[58587951ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58588359ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58589168ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58590777ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58593986ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58600396ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58604499ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://ph.supabase.com/i/v0/e/?ip=0&_=1787039158169&ver=1.391.2&compression=gzip-js&beacon=1:0
+[58617708ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://ph.supabase.com/i/v0/e/?ip=0&_=1787039168795&ver=1.391.2&compression=gzip-js&beacon=1:0
+[58617712ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58647830ms] [ERROR] ConfigCat - ERROR - [1103] Unexpected error occurred while trying to fetch config JSON. It is most likely due to a local network issue. Please make sure your application can reach the ConfigCat CDN servers (or your proxy server) over HTTP.
+Error: Request failed due to a network or protocol error.
+    at new t (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2p7_45cv2w_yh.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:2:36380)
+    at s.onerror (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2p7_45cv2w_yh.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:2:95489)
+    at XMLHttpRequest.r (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:3:5336) @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[58647830ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://configcat.supabase.com/configuration-files/configcat-proxy/frontend-v2/config_v6.json?sdk=ConfigCat-JS/a-9.5.1&ccetag=W%2F%225bb274b8de6df7e26ae0f6b0ffa5e296%22:0
+[58677744ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58677954ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58678362ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58679169ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58680777ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58683986ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58690394ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58703203ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58767743ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58767952ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58768360ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58769169ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58770776ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58773981ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58780390ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58793199ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58802558ms] [LOG] Supabase Studio is running commit 2e68f2bf6ec7ed5a51662c6c38c63436fdc6f488 deployed at unknown time. @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[58802590ms] [WARNING] ConfigCat - WARN - [3003] Cannot evaluate condition (User.plan IS ONE OF ['pro', 'team', 'enterprise']) for setting 'observabilityOverview' (the User.plan attribute is missing). You should set the User.plan attribute in order to make targeting work properly. Read more: https://configcat.com/docs/advanced/user-object/ @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[58802627ms] Uncaught (in promise) AuthRetryableFetchError: Failed to fetch (auth.supabase.io)
+    at e_ (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/3c0xwkrjiftfk.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:1:12630)
+[58802627ms] Uncaught (in promise) AuthRetryableFetchError: Failed to fetch (auth.supabase.io)
+    at e_ (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/3c0xwkrjiftfk.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:1:12630)
+[58802626ms] [ERROR] Failed to fetch PH flags: API is not available @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[58802626ms] [WARNING] [FeatureFlags] PostHog flags failed AuthRetryableFetchError: Failed to fetch (auth.supabase.io)
+    at e_ (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/3c0xwkrjiftfk.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:2:12631)
+    at async ew (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/3c0xwkrjiftfk.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:2:12113)
+    at async r (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/3c0xwkrjiftfk.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:15:26351)
+    at async https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/3c0xwkrjiftfk.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:15:26613 @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[58828655ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://supabase.com/dashboard/api/incident-banner:0
+[58828729ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://supabase.com/dashboard/api/get-deployment-commit:0
+[58828730ms] [ERROR] TypeError: Failed to fetch
+    at https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:6:1958
+    at https://ss.supabase.com/4icgbaujh.js?60a389s=aWQ9R1RNLVdDVlJMTU43&page=2:1:691
+    at https://ss.supabase.com/4icgbaujh.js?60a389s=aWQ9R1RNLVdDVlJMTU43&page=2:787:607
+    at d (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:408)
+    at a (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/0h5k3-q5xs_k1.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:66:6355)
+    at queryFn (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/0h5k3-q5xs_k1.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:66:6541)
+    at Object.o [as fn] (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:15633)
+    at v (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:11069)
+    at Object.start (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:11549)
+    at a.fetch (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:16759)
+    at #A (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:20719)
+    at c.fetch (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:20606)
+    at c.refetch (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:20420)
+    at a.onOnline (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:14429)
+    at https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/40w6sroqwic_9.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:21477
+    at Array.forEach (<anonymous>)
+    at https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/40w6sroqwic_9.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:21463
+    at Object.batch (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:9256)
+    at o.onOnline (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/40w6sroqwic_9.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:21438)
+    at https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/40w6sroqwic_9.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:23475 @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[58845510ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://supabase.com/dashboard/api/get-deployment-commit:0
+[58845511ms] [ERROR] TypeError: Failed to fetch
+    at https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:6:1958
+    at https://ss.supabase.com/4icgbaujh.js?60a389s=aWQ9R1RNLVdDVlJMTU43&page=2:1:691
+    at https://ss.supabase.com/4icgbaujh.js?60a389s=aWQ9R1RNLVdDVlJMTU43&page=2:787:607
+    at d (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:408)
+    at a (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/0h5k3-q5xs_k1.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:66:6355)
+    at queryFn (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/0h5k3-q5xs_k1.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:66:6541)
+    at Object.o [as fn] (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:15633)
+    at v (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:11069)
+    at https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:11384 @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[58865014ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/3eyuqdjsgn0gf.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:0
+[58865015ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://o398706.ingest.us.sentry.io/api/5459134/envelope/?sentry_version=7&sentry_key=caa7db5fc1da4341810a6d56251a951c&sentry_client=sentry.javascript.nextjs%2F10.59.0:0
+[58865015ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://o398706.ingest.us.sentry.io/api/5459134/envelope/?sentry_version=7&sentry_key=caa7db5fc1da4341810a6d56251a951c&sentry_client=sentry.javascript.nextjs%2F10.59.0:0
+[58865015ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://ph.supabase.com/i/v0/e/?ip=0&_=1787039359782&ver=1.391.2&compression=gzip-js&beacon=1:0
+[58865016ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/3039i09hwt5x9.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:0
+[58865016ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://supabase.com/dashboard/api/get-deployment-commit:0
+[58865016ms] [ERROR] TypeError: Failed to fetch
+    at https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:6:1958
+    at https://ss.supabase.com/4icgbaujh.js?60a389s=aWQ9R1RNLVdDVlJMTU43&page=2:1:691
+    at https://ss.supabase.com/4icgbaujh.js?60a389s=aWQ9R1RNLVdDVlJMTU43&page=2:787:607
+    at d (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:408)
+    at a (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/0h5k3-q5xs_k1.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:66:6355)
+    at queryFn (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/0h5k3-q5xs_k1.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:66:6541)
+    at Object.o [as fn] (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:15633)
+    at v (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:11069)
+    at https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:11384 @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[58865016ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://supabase.com/dashboard/api/incident-banner:0
+[58865017ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://otqhrpbxhxkrhrnjqbba.supabase.co/rest/v1/marketplace_listings?select=*&published_in_marketplace_at=not.is.null:0
+[58868093ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58868135ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://otqhrpbxhxkrhrnjqbba.supabase.co/rest/v1/marketplace_listings?select=*&published_in_marketplace_at=not.is.null:0
+[58868297ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58868705ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58869511ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58870139ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://otqhrpbxhxkrhrnjqbba.supabase.co/rest/v1/marketplace_listings?select=*&published_in_marketplace_at=not.is.null:0
+[58871116ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58874148ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://otqhrpbxhxkrhrnjqbba.supabase.co/rest/v1/marketplace_listings?select=*&published_in_marketplace_at=not.is.null:0
+[58874325ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58877771ms] [WARNING] GoTrueClient@sb-otqhrpbxhxkrhrnjqbba-auth-token:1 (2.112.3) 2026-08-18T07:50:34.965Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key. @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[58894986ms] [ERROR] Failed to load resource: net::ERR_NETWORK_IO_SUSPENDED @ https://supabase.com/dashboard/api/get-deployment-commit:0
+[58894987ms] [ERROR] TypeError: Failed to fetch
+    at https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:6:1958
+    at https://ss.supabase.com/4icgbaujh.js?60a389s=aWQ9R1RNLVdDVlJMTU43&page=2:1:691
+    at https://ss.supabase.com/4icgbaujh.js?60a389s=aWQ9R1RNLVdDVlJMTU43&page=2:787:607
+    at d (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:408)
+    at a (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/0h5k3-q5xs_k1.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:66:6355)
+    at queryFn (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/0h5k3-q5xs_k1.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:66:6541)
+    at Object.o [as fn] (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:15633)
+    at v (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:11069)
+    at https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:11384 @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[58894988ms] [ERROR] Failed to load resource: net::ERR_NETWORK_IO_SUSPENDED @ https://supabase.com/dashboard/api/incident-banner:0
+[58894989ms] [ERROR] Failed to load resource: net::ERR_NETWORK_IO_SUSPENDED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[58944581ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://supabase.com/dashboard/api/incident-banner:0
+[58964001ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://otqhrpbxhxkrhrnjqbba.supabase.co/rest/v1/marketplace_listings?select=*&published_in_marketplace_at=not.is.null:0
+[59073219ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://otqhrpbxhxkrhrnjqbba.supabase.co/rest/v1/marketplace_listings?select=*&published_in_marketplace_at=not.is.null:0
+[59075267ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[59075288ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://otqhrpbxhxkrhrnjqbba.supabase.co/rest/v1/marketplace_listings?select=*&published_in_marketplace_at=not.is.null:0
+[59079299ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://otqhrpbxhxkrhrnjqbba.supabase.co/rest/v1/marketplace_listings?select=*&published_in_marketplace_at=not.is.null:0
+[59236142ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[59236350ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[59236760ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[59327015ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[59331989ms] [WARNING] GoTrueClient@sb-otqhrpbxhxkrhrnjqbba-auth-token:2 (2.112.3) 2026-08-18T07:58:09.184Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key. @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[59332076ms] [ERROR] Failed to load resource: net::ERR_ADDRESS_UNREACHABLE @ https://supabase.com/dashboard/api/incident-banner:0
+[59332076ms] [ERROR] Failed to load resource: net::ERR_ADDRESS_UNREACHABLE @ https://supabase.com/dashboard/api/get-deployment-commit:0
+[59332076ms] [ERROR] TypeError: Failed to fetch
+    at https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:6:1958
+    at https://ss.supabase.com/4icgbaujh.js?60a389s=aWQ9R1RNLVdDVlJMTU43&page=2:1:691
+    at https://ss.supabase.com/4icgbaujh.js?60a389s=aWQ9R1RNLVdDVlJMTU43&page=2:787:607
+    at d (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:408)
+    at a (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/0h5k3-q5xs_k1.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:66:6355)
+    at queryFn (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/0h5k3-q5xs_k1.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:66:6541)
+    at Object.o [as fn] (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:15633)
+    at v (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:11069)
+    at Object.start (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:11549)
+    at a.fetch (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:16759)
+    at #A (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:20719)
+    at c.fetch (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:20606)
+    at c.refetch (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:20420)
+    at a.onOnline (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:14429)
+    at https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/40w6sroqwic_9.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:21477
+    at Array.forEach (<anonymous>)
+    at https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/40w6sroqwic_9.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:21463
+    at Object.batch (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:9256)
+    at o.onOnline (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/40w6sroqwic_9.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:21438)
+    at https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/40w6sroqwic_9.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:23475 @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[59332083ms] [ERROR] Failed to load resource: net::ERR_ADDRESS_UNREACHABLE @ https://otqhrpbxhxkrhrnjqbba.supabase.co/rest/v1/marketplace_listings?select=*&published_in_marketplace_at=not.is.null:0
+[59333017ms] [ERROR] Failed to load resource: net::ERR_ADDRESS_UNREACHABLE @ https://supabase.com/dashboard/api/incident-banner:0
+[59333017ms] [ERROR] Failed to load resource: net::ERR_ADDRESS_UNREACHABLE @ https://supabase.com/dashboard/api/get-deployment-commit:0
+[59333017ms] [ERROR] TypeError: Failed to fetch
+    at https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:6:1958
+    at https://ss.supabase.com/4icgbaujh.js?60a389s=aWQ9R1RNLVdDVlJMTU43&page=2:1:691
+    at https://ss.supabase.com/4icgbaujh.js?60a389s=aWQ9R1RNLVdDVlJMTU43&page=2:787:607
+    at d (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:408)
+    at a (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/0h5k3-q5xs_k1.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:66:6355)
+    at queryFn (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/0h5k3-q5xs_k1.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:66:6541)
+    at Object.o [as fn] (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:15633)
+    at v (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:11069)
+    at https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/285kam153an3w.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:4:11384 @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[59333023ms] [ERROR] Failed to load resource: net::ERR_ADDRESS_UNREACHABLE @ https://otqhrpbxhxkrhrnjqbba.supabase.co/rest/v1/marketplace_listings?select=*&published_in_marketplace_at=not.is.null:0
+[62278970ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[63263947ms] [ERROR] ConfigCat - ERROR - [1103] Unexpected error occurred while trying to fetch config JSON. It is most likely due to a local network issue. Please make sure your application can reach the ConfigCat CDN servers (or your proxy server) over HTTP.
+Error: Request failed due to a network or protocol error.
+    at new t (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2p7_45cv2w_yh.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:2:36380)
+    at s.onerror (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2p7_45cv2w_yh.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:2:95489)
+    at XMLHttpRequest.r (https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:3:5336) @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[63263947ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://configcat.supabase.com/configuration-files/configcat-proxy/frontend-v2/config_v6.json?sdk=ConfigCat-JS/a-9.5.1&ccetag=W%2F%225bb274b8de6df7e26ae0f6b0ffa5e296%22:0
+[63263974ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[66161525ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[66161733ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[66844555ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[68086381ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[68086590ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[68087000ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[68087809ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[68089416ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[69089086ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[70019363ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[70019572ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[70019981ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[70062558ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://auth.supabase.io/auth/v1/token?grant_type=refresh_token:0
+[70133270ms] [WARNING] GoTrueClient@sb-otqhrpbxhxkrhrnjqbba-auth-token:3 (2.112.3) 2026-08-18T10:58:10.464Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key. @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[76830643ms] [LOG] Supabase Studio is running commit e0ee774c748ba2d6a6ed90c682c9e02bb07482e1 deployed at unknown time. @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[76830681ms] [WARNING] ConfigCat - WARN - [3003] Cannot evaluate condition (User.Email IS ONE OF [<1 hashed value>]) for setting 'scopedPAT' (the User.Email attribute is missing). You should set the User.Email attribute in order to make targeting work properly. Read more: https://configcat.com/docs/advanced/user-object/ @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[76836357ms] [WARNING] ConfigCat - WARN - [3003] Cannot evaluate condition (User.Email IS ONE OF [<1 hashed value>]) for setting 'scopedPAT' (the User.Email attribute is missing). You should set the User.Email attribute in order to make targeting work properly. Read more: https://configcat.com/docs/advanced/user-object/ @ https://frontend-assets.supabase.com/studio/7c46793a3f93/_next/static/chunks/2vtvt5_d2ymjt.js?dpl=dpl_G569xQAd3m3C7mwc8UX2jKz4xkxK:5
+[76837217ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://api.supabase.com/platform/integrations/github/authorization:0
+[76840884ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://api.supabase.com/platform/integrations/github/authorization:0

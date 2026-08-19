@@ -1,0 +1,116 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - link "Skip to content" [ref=e6] [cursor=pointer]:
+        - /url: "#main"
+      - banner [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]:
+            - link "Supabase Back to organization home" [ref=e12] [cursor=pointer]:
+              - /url: /dashboard/organizations
+              - img "Supabase" [ref=e13]
+              - generic [ref=e14]: Back to organization home
+            - button "Connect" [disabled] [ref=e22]
+          - generic [ref=e27]:
+            - button "Feedback" [ref=e28] [cursor=pointer]
+            - generic [ref=e30]:
+              - button [ref=e31] [cursor=pointer]:
+                - paragraph [ref=e36]: Search...
+                - generic [ref=e37]: ⌘K
+              - button "Help" [ref=e39] [cursor=pointer]
+              - button "Advisor Center" [ref=e46] [cursor=pointer]
+              - button "SQL Editor" [ref=e51] [cursor=pointer]
+              - button "AI Assistant" [ref=e56] [cursor=pointer]
+            - button [ref=e64] [cursor=pointer]
+      - generic [ref=e69]:
+        - generic [ref=e73]:
+          - navigation [ref=e75]:
+            - list [ref=e77]:
+              - listitem [ref=e78]:
+                - link "Project Overview" [ref=e79] [cursor=pointer]:
+                  - /url: /dashboard/project/zulhxdnbpvfwkygaimuw
+              - listitem [ref=e82]:
+                - button "Table Editor" [disabled]
+              - listitem [ref=e83]:
+                - button "SQL Editor" [disabled]
+            - list [ref=e85]:
+              - listitem [ref=e86]:
+                - button "Database" [disabled]
+              - listitem [ref=e87]:
+                - button "Authentication" [disabled]
+              - listitem [ref=e88]:
+                - button "Storage" [disabled]
+              - listitem [ref=e89]:
+                - link "Edge Functions" [ref=e90] [cursor=pointer]:
+                  - /url: /dashboard/project/zulhxdnbpvfwkygaimuw/functions
+              - listitem [ref=e96]:
+                - button "Realtime" [disabled]
+            - list [ref=e98]:
+              - listitem [ref=e99]:
+                - button "Advisors" [disabled]
+              - listitem [ref=e100]:
+                - button "Observability" [disabled]
+              - listitem [ref=e101]:
+                - link "Logs" [ref=e102] [cursor=pointer]:
+                  - /url: /dashboard/project/zulhxdnbpvfwkygaimuw/logs/explorer
+              - listitem [ref=e104]:
+                - button "Integrations" [disabled]
+            - list [ref=e106]:
+              - listitem [ref=e107]:
+                - link "Project Settings" [ref=e108] [cursor=pointer]:
+                  - /url: /dashboard/project/zulhxdnbpvfwkygaimuw/settings/general
+          - button "Sidebar control" [ref=e114] [cursor=pointer]
+        - main [ref=e121]:
+          - generic [ref=e123]:
+            - separator [ref=e127]
+            - main [ref=e138]:
+              - generic [ref=e139]:
+                - generic [ref=e140]:
+                  - generic [ref=e141]:
+                    - button "Collapse sidebar" [ref=e142]
+                    - tablist [ref=e147]:
+                      - generic [ref=e149]:
+                        - tab "New" [selected] [ref=e150] [cursor=pointer]
+                        - button "Close new tab" [ref=e156] [cursor=pointer]
+                  - status [ref=e161]
+                - generic [ref=e163]:
+                  - generic [ref=e164]:
+                    - generic [ref=e165]:
+                      - generic [ref=e166]: Autosave enabled
+                      - button "Disable autosave" [ref=e167] [cursor=pointer]
+                    - button "More actions" [ref=e173] [cursor=pointer]
+                    - generic [ref=e179]:
+                      - generic [ref=e180]:
+                        - generic [ref=e181] [cursor=pointer]:
+                          - generic [ref=e182]: Source
+                          - button "Primary database" [ref=e183]
+                        - button "Role postgres" [ref=e191] [cursor=pointer]:
+                          - generic [ref=e193]:
+                            - generic [ref=e194]: Role
+                            - generic [ref=e195]: postgres
+                      - button "Limit 100 rows" [ref=e198] [cursor=pointer]
+                      - button "Run" [ref=e204] [cursor=pointer]:
+                        - generic [ref=e206]: ⌘↵
+                  - generic [ref=e208]:
+                    - separator [ref=e214]
+                    - generic [ref=e225]:
+                      - tablist [ref=e226]:
+                        - generic [ref=e227]:
+                          - tab "Results" [selected] [ref=e228] [cursor=pointer]
+                          - tab "Chart" [ref=e230] [cursor=pointer]
+                      - paragraph [ref=e233]:
+                        - text: Click
+                        - code [ref=e234]: Run
+                        - text: to execute your query
+    - generic [ref=e238]:
+      - generic:
+        - img "Background pattern"
+      - generic [ref=e239]:
+        - button "Close banner" [ref=e241] [cursor=pointer]
+        - generic [ref=e246]:
+          - generic [ref=e247]: Notice
+          - generic [ref=e248]:
+            - paragraph [ref=e249]: We're updating our Terms of Service
+            - paragraph [ref=e250]: Our Data Processing Addendum is now built into the Terms, effective August 1, 2026.
+          - button "Learn more" [ref=e251] [cursor=pointer]
+  - alert [ref=e253]: SQL Editor | Supabase
